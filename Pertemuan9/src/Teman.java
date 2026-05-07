@@ -2,7 +2,7 @@
     Nama File: Teman.java
     Deskripsi: class Teman yang akan digunakan untuk menyimpan data teman-teman menggunakan koleksi generik ArrayList
     Nama Pembuat: 24060124130055 - Daffa Maulana Alfianto
-    Tanggal: 12 Maret 2026
+    Tanggal: 07 Mei 2026
 */
 import java.util.*;
 
